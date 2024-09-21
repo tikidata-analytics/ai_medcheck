@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4F709C"
+backgroundColor = "#F5EFE7"  # or use "$D8C4B6" for the other shade
+secondaryBackgroundColor = "#D8C4B6"  # You can mix both if needed
+textColor = "#4F709C"
+font = "sans serif"
